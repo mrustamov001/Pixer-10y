@@ -448,6 +448,7 @@ a{
 }
 
 .contact-section{
+    width: 100%;
     padding: 56px 0 40px 0;
     background: #00BAFC;
 }
@@ -507,6 +508,7 @@ a{
 
 /* Footer */
 .footer{
+    width: 100%;
     background: #191919;
 }
 
